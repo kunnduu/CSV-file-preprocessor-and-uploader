@@ -2,7 +2,8 @@
 I made this web app as part of a hiring task for a company 
 # Here is a demo video of the working web app
 - Link : https://drive.google.com/file/d/1Q2ghdXd6lCMHKFXaLhjZT4ofsEv0JFid/view?usp=sharing .
-This Python script provides a web-based interface for uploading CSV files, performing data preprocessing, and updating a Google Sheet with the preprocessed data. It utilizes the Streamlit library for creating the web app and various data preprocessing techniques from scikit-learn.
+
+- This Python script provides a web-based interface for uploading CSV files, performing data preprocessing, and updating a Google Sheet with the preprocessed data. It utilizes the Streamlit library for creating the web app and various data preprocessing techniques from scikit-learn.
 
 ## Libraries Used
 
