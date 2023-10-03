@@ -1,8 +1,6 @@
 # CSV File Preprocessor and Uploader
 I made this web app as part of a hiring task for a company 
 # Here is a demo video of the working web app
-<video src=" https://drive.google.com/file/d/1Q2ghdXd6lCMHKFXaLhjZT4ofsEv0JFid/view?usp=sharing" controls="controls" style="max-width: 730px;">
-</video>
 
 This Python script provides a web-based interface for uploading CSV files, performing data preprocessing, and updating a Google Sheet with the preprocessed data. It utilizes the Streamlit library for creating the web app and various data preprocessing techniques from scikit-learn.
 
